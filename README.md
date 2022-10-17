@@ -1,1 +1,1 @@
-Con este repositorio se libera nuestra PS4 GOLHEND 2.2.4
+Con este repositorio se libera Nuestra PS4 GOLHEND 2.2.4_900
